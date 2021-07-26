@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data analysis based on statistics and machine learning.
 - 🌱 I’m currently learning Cloud Service. (AWS, Naver)
 - 💞️ I’m looking to collaborate on ERP, RPA projects.
-- 📫 If you would like to contact me, please contact me at the following email address. 
+- 📫 If you would like to contact me, please contact me at the following email address.  
       - happyhoo97@khu.ac.kr
       - happyhoo0806@gmail.com
 
